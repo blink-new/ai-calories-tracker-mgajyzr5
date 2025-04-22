@@ -1,4 +1,5 @@
 
+import React from 'react';
 import { Tabs } from 'expo-router';
 import { Home, Camera, History, Settings } from 'lucide-react-native';
 
