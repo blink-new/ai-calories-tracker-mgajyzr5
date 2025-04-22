@@ -42,7 +42,8 @@
     "@supabase/supabase-js": "latest",
     "react-native-dotenv": "latest",
     "react-native-chart-kit": "latest",
-    "date-fns": "latest"
+    "date-fns": "latest",
+    "babel-plugin-module-resolver": "latest"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
